@@ -6,9 +6,6 @@ A script to migrate installed packages between Android user profiles using ADB.
 
 This script lists all installed packages for a specified user profile on an Android device and installs those packages for another user profile. It utilizes ADB commands to achieve this.
 
-## Acknowledgements
-Thanks to [u/Fenopy](https://www.reddit.com/user/Fenopy/), a Reddit user, for the inspiration to create this script.
-
 ## Prerequisites
 
 - Python 3.x
